@@ -4,6 +4,22 @@ A powerful Obsidian plugin that automatically adds customizable serial numbers t
 
 ![quick start](https://raw.githubusercontent.com/yalvhe2009/obsidian-title-serial-number-plugin/main/assets/quick-start.gif)
 
+> 🌐 **中文定制版** - 这是原插件的中文定制版本，包含完整的中文文档和本地化支持。
+> 
+> 📖 [查看中文说明](README-zh_CN.md)
+
+## 🔄 Customized Version Changes
+
+This is a Chinese customized version with the following modifications:
+
+- ✅ **Chinese README**: Full Chinese documentation available in `README-zh_CN.md`
+- ✅ **Author Updated**: Updated to `superjackvip`
+- ✅ **Added Features**:
+  - Chinese encoding mode: One-click Chinese document numbering format
+  - Independent numbering mode: Each heading level numbered independently
+  - More numbering styles: Chinese brackets, Chinese enumeration marks, circled numbers
+- ✅ **Compiled Binary**: Updated `main.js` with all features
+
 ## Features
 
 - **Multiple Number Styles**: Support for 7 different numbering styles

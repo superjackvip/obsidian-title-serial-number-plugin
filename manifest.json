@@ -4,8 +4,8 @@
 	"version": "1.1.0",
 	"minAppVersion": "0.15.0",
 	"description": "This plugin adds serial numbers to your markdown title.",
-	"author": "Domenic",
-	"authorUrl": "",
+	"author": "superjackvip",
+	"authorUrl": "https://github.com/superjackvip",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }
